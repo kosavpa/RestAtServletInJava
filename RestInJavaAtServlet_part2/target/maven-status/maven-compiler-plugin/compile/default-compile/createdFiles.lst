@@ -1,0 +1,8 @@
+Controller\PersonController.class
+Model\Person.class
+Controller\UpdatePersonController.class
+Controller\NewPersonController.class
+Controller\MainController.class
+Controller\DeletePersonController.class
+Util\URL_generator.class
+Controller\PersonsController.class
