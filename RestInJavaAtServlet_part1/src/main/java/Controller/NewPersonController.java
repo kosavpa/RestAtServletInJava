@@ -25,9 +25,9 @@ public class NewPersonController extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) {
-        ThreadPoolExecutor executor = (ThreadPoolExecutor) req.getAttribute("executor");
-        PersonDAOService service = (PersonDAOService) req.getAttribute("service");
-        Gson gson = (Gson) req.getAttribute("gson");
+        ThreadPoolExecutor executor = (ThreadPoolExecutor) req.getServletContext().getAttribute("executor");
+        PersonDAOService service = (PersonDAOService) req.getServletContext().getAttribute("service");
+        Gson gson = (Gson) req.getServletContext().getAttribute("gson");
         AsyncContext asyncContext = req.startAsync();
 
         asyncContext.addListener(new AsyncListener() {

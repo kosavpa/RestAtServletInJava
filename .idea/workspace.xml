@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34cadc09-183e-4565-bec8-27347a6b53f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/RestInJavaAtServlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/DeletePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/DeletePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/NewPersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/NewPersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/PersonsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/PersonsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/UpdatePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/UpdatePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/UpdatePersonGetController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Controller/UpdatePersonGetController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Util/URL_generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part2/target/classes/Util/URL_generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/artifacts/RestInjavaAtServlets_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/artifacts/RestInjavaAtServlets_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/RestInJavaAtServlets_part1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/RestInJavaAtServlets_part1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/DeletePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/DeletePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/NewPersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/NewPersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/PersonsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/PersonsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/UpdatePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Controller/UpdatePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/DAO/DataSource$InnerPersonDAOHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/DAO/DataSource$InnerPersonDAOHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/DAO/DataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/DAO/DataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/DAO/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/DAO/PersonDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Service/PersonDAOService.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Service/PersonDAOService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Service/PersonDAOServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/classes/Service/PersonDAOServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/lib/gson-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/lib/gson-2.9.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.30.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/lib/protobuf-java-3.19.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/lib/protobuf-java-3.19.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/out/artifacts/RestInjavaAtServlets_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Controller/DeletePersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Controller/DeletePersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Controller/NewPersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Controller/NewPersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Controller/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Controller/PersonsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Controller/PersonsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Controller/UpdatePersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Controller/UpdatePersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/DAO/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/DAO/DataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/DAO/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/DAO/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Service/PersonDAOService.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Service/PersonDAOService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/src/main/java/Service/PersonDAOServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/src/main/java/Service/PersonDAOServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/DeletePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/DeletePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/NewPersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/NewPersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/PersonsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/PersonsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/UpdatePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Controller/UpdatePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/DAO/DataSource$InnerPersonDAOHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/DAO/DataSource$InnerPersonDAOHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/DAO/DataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/DAO/DataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/DAO/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/DAO/PersonDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Service/PersonDAOService.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Service/PersonDAOService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/classes/Service/PersonDAOServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/classes/Service/PersonDAOServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/lib/gson-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/lib/gson-2.9.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/lib/mysql-connector-java-8.0.30.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/lib/protobuf-java-3.19.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/lib/protobuf-java-3.19.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/RestInJavaAtServlet_part1/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/RestInJavaAtServlet_part1/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Controller/DeletePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Controller/DeletePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Controller/NewPersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Controller/NewPersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Controller/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Controller/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Controller/PersonsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Controller/PersonsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Controller/UpdatePersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Controller/UpdatePersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/DAO/DataSource$InnerPersonDAOHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/DAO/DataSource$InnerPersonDAOHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/DAO/DataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/DAO/DataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/DAO/PersonDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/DAO/PersonDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Service/PersonDAOService.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Service/PersonDAOService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/target/classes/Service/PersonDAOServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/target/classes/Service/PersonDAOServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/web/addNewPerson.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/web/addNewPerson.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestInjavaAtServlets/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/RestInJavaAtServlet_part1/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DqWSawb1XxGSfgiQ7dFBwI0yMm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Programming/JAVA/java_applications/RestInJavaAtServlet",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34cadc09-183e-4565-bec8-27347a6b53f4" name="Changes" comment="" />
+      <created>1661427095105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661427095105</updated>
+      <workItem from="1661427096613" duration="42000" />
+      <workItem from="1661427369899" duration="524000" />
+      <workItem from="1669564979090" duration="102000" />
+      <workItem from="1669565091021" duration="273000" />
+      <workItem from="1671898485343" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

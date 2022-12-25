@@ -12,12 +12,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.util.concurrent.ThreadPoolExecutor;
 
 
-@WebServlet(urlPatterns = "")
+@WebServlet(urlPatterns = "", asyncSupported = true)
 public class PersonsController extends HttpServlet {
 
     @Override

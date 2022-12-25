@@ -1,8 +1,8 @@
 package Util;
 
 
+import Service.PersonDAOService;
 import Service.PersonDAOServiceImpl;
-import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import javax.servlet.ServletContextEvent;
@@ -17,8 +17,10 @@ import java.util.concurrent.TimeUnit;
 public class ServletContextListenerImpl implements ServletContextListener {
     @Override
     public void contextInitialized(ServletContextEvent sce) {
-        sce.getServletContext().setAttribute("executor", new ThreadPoolExecutor(1, 8, 1, TimeUnit.SECONDS, new ArrayBlockingQueue<Runnable>(16)));
-        sce.getServletContext().setAttribute("service", new PersonDAOServiceImpl());
+        ThreadPoolExecutor executor = new ThreadPoolExecutor(4, 16, 1, TimeUnit.SECONDS, new ArrayBlockingQueue<Runnable>(16));
+        PersonDAOService service = new PersonDAOServiceImpl();
+        sce.getServletContext().setAttribute("executor", executor);
+        sce.getServletContext().setAttribute("service", service);
         sce.getServletContext().setAttribute("gson", new GsonBuilder().setPrettyPrinting().create());
     }
 
